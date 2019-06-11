@@ -4,7 +4,7 @@
 
 ## Struktur und Navigation
 
-- [ ] Alle Navigationselemente sind klar zu erkennen und leicht zu bedienen. [Lösung](https://page-speed.ninja/blog/2018/08/11/usability/#)
+- [ ] Alle Navigationselemente sind klar zu erkennen und leicht zu bedienen.
 - [ ] Nicht-klickbare Elemente erwecken nicht den Eindruck, klickbar zu sein.
 - [ ] Es gibt in der Hauptnavigation zwischen 5 und 9 Kategorien.
 - [ ] Die Menüüberschriften sind kurz und eindeutig.
