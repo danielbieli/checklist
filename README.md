@@ -63,13 +63,13 @@ Usually I measure the main pages of a project here.
 - [ ] No usage of `document.write`
 - [ ] CSS animation causing layout(reflow) is not heavily used
 
-## Device performance
+### Device performance
 
 - [ ] CPU usage
 - [ ] Memory usage
 - [ ] GPU usage
 
-## Cross-Browser
+### Cross-Browser
 
 - [ ] Website is loading on all current desktop browsers (Safari, Firefox, Chrome, IE11, EDGE)
 - [ ] Website is loading on all current mobile browser (Chrome for Android, iOS Safari)
@@ -77,7 +77,7 @@ Usually I measure the main pages of a project here.
 - [ ] Viewport Meta Tag is used correctly
 - [ ] Usage of correct input types
 
-# SEO
+### SEO
 
 - [ ] Pages can be indexed
 - [ ] Mobile version of website is available
@@ -104,7 +104,7 @@ Usually I measure the main pages of a project here.
 - [ ] Canonical Tags are used if applicable
 - [ ] Ratio of code and content is around 25% for shop pages and 50% for content pages
 
-## Accessibility
+### Accessibility
 
 - [ ] Color Contrast is good (WCAG 2.0)
 - [ ] WAI-ARIA roles are used
@@ -113,7 +113,7 @@ Usually I measure the main pages of a project here.
 - [ ] Keyboard accessibility is available
 - [ ] Correct input types are used
 
-## Security
+### Security
 
 - [ ] HTTPS is used on all pages
 - [ ] There is no mixed content on the pages
@@ -123,7 +123,7 @@ Usually I measure the main pages of a project here.
 - [ ] HSTS Header is set
 - [ ] Content-Security-Policy is set and only allows specific hosts and no inline scripts
 
-## More
+### More
 
 - [ ] Strict usage of domain with or without www
 - [ ] Correct language set in HTML tag
@@ -131,8 +131,3 @@ Usually I measure the main pages of a project here.
 - [ ] HTML is valid
 - [ ] 404-page is available
 - [ ] A special print style sheet is in place
-
-### Server
-
-- [ ] Correct language set by the server
-- [ ] Correct content types set by the server
