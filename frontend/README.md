@@ -1,4 +1,4 @@
-# Frontend Checklist for Websites
+# Frontend Checklist
 
 > [Zurück - Alle Checklisten](https://danielbieli.github.io/checklist/)
 
