@@ -1,6 +1,6 @@
 # Usability
 
-> [Zurück - Alle Checklisten](https://danielbieli.github.io/checklist/)
+> [Alle Checklisten](https://danielbieli.github.io/checklist/)
 
 ## Struktur und Navigation
 
