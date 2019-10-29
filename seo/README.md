@@ -1,9 +1,9 @@
 # SEO Checkliste & Referenzen
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcobiedermann/search-engine-optimization)
-
+ 
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
+
+> [Zurück - Alle Checklisten](https://danielbieli.github.io/checklist/)
+
 
 ## Table of Contents
 * [URL](#url)
@@ -181,12 +181,5 @@ search engines do not use this meta tag
 ### Bookmarklets
 * **[OuiSEO](https://github.com/carlsednaoui/seo-bookmarklet):** an open-source bookmarklet that shows you on-page SEO and social meta data information.
 * **[SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet):** a One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
-
-### Browser Extensions
-* **[MozBar](https://moz.com/tools/seo-toolbar):** the SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
-
-### WordPress Plugins
-
-
 
 
